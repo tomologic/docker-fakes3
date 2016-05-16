@@ -1,6 +1,6 @@
 from ruby:latest
 
-RUN gem install fakes3
+RUN gem install fakes3 -v 0.2.4
 
 EXPOSE 80
 
