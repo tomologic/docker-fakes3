@@ -1,4 +1,4 @@
-from ruby:latest
+from ruby:alpine
 
 RUN gem install fakes3 -v 0.2.4
 
