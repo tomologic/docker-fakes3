@@ -1,6 +1,6 @@
 from ruby:alpine
 
-RUN gem install fakes3 -v 0.2.4
+RUN gem install fakes3 -v 1.2.1
 
 EXPOSE 80
 
